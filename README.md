@@ -1,2 +1,2 @@
 # kotlin-fundamentos
-Principais Fundamentos do Kotlin
+Projetinho para aprender os principais fundamentos do Kotlin
